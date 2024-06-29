@@ -1,4 +1,4 @@
-# medicare_expenditure_determinants
-## Understanding the Determinants of Healthcare expenditure Amongst Medicare Beneficiaries
-You can find the source code in R & PDF file that contains the explanation in this repository
-Was created for my Econometrics course
+# Understanding the Determinants of Healthcare expenditure Amongst Medicare Beneficiaries
+- You can find the source code in R & PDF file that contains the explanation in this repository
+- Was created for my Econometrics course
+- Summary: In this paper, I wanted to explore what determines how much a person will spend if they have Medicare/Medicaid as a form of health insurance. A dataset from government data was analyzed using R. Before analyzing, the data was transformed then data operations were conducted. Even though the data isn't perfect in terms of normality, it still can give us an idea of how Medicare looks like. Based on the results found at the end, it can be said that the U.S. government can improve the provided healthcare to beneficiaries that have specific chronic health conditions and socioeconomic factors. It was found also that the current types of insurance can be improved to lower the out-of-pocket or private insurance costs for beneficiaries.
